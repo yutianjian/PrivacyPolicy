@@ -2,11 +2,12 @@
 
 ### Collection and Use of Personal Information
 
-My App does not collect, use, disclose, transfer, and store your personal information. You will not be asked to provide your personal information anytime. 
+- My App does not collect, use, disclose, transfer, and store your personal information. 
+- You will not be asked to provide your personal information anytime. 
 
 ### What personal information the app use
  
-If my app show ads, it will use the UUID of your device for ads. 
+- If my app show ads, it will use the UUID of your device for ads. 
 
 ## 隐私政策
 
