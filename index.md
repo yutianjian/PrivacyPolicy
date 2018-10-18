@@ -10,27 +10,19 @@
 - a) 本软件软件不收集、不使用、不披露您的任何个人信息。
 - b) 在接入广告的情况下，本软件使用您设备的UUID。
 
-# Header 1
-## Header 2
-### Header 3
+### 2.信息使用
 
-- Bulleted
-- List
+- 如果在软件中接入了广告，本软件为接入广告将使用您设备的UUID，除此之外，不会使用其他个人信息。
 
-1. Numbered
-2. List
+### 3.信息披露
 
-**Bold** and _Italic_ and `Code` text
+- 在任何情况下，本软件都不会收集、披露您的个人信息。
 
-[Link](url) and ![Image](src)
-```
+### 4.信息存储和交换
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 使用本软件时，所有的信息都将保存在您的本机设备上，不传输至任何服务器，也不发送至任何个人和机构。
 
-### Jekyll Themes
+### 5.信息安全
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yutianjian/PrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 如果软件中如需设置用户名和登录密码，请妥善保管您的用户名及密码信息。
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
