@@ -4,10 +4,11 @@
 
 ### 1.适用范围
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+a. 用户个人数据
+b. 用户设备UUID
+您了解并同意：
+a. 本软件软件不收集、不使用、不披露您的任何个人信息。
+b. 在接入广告的情况下，本软件使用您设备的UUID。
 
 # Header 1
 ## Header 2
