@@ -7,7 +7,7 @@ You will not be asked to provide your personal information anytime.
 ### What personal information the app collect
 
 My App does not collect, use, disclose, transfer, and store your personal information. 
-If my app show ads, My app may use the UUID of your device for ads. 
+If my app show ads, it will use the UUID of your device for ads. 
 
 ## 隐私政策
 
