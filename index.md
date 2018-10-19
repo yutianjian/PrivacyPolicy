@@ -1,13 +1,36 @@
 ## Privacy Policy
 
-### Collection and Use of Personal Information
+### What information does the Application obtain and how is it used?
 
-- My App does not collect, use, disclose, transfer, and store your personal information. 
-- You will not be asked to provide your personal information anytime. 
+You will not be asked to provide your personal information anytime. The Application does not collect, use, disclose, transfer, and store your personal information. But if the Application show ads, it may collect certain information automatically, including the type of mobile device you use, your mobile devices unique device ID.  
 
-### What personal information the app use
+### Does the Application collect precise real time location information of the device?
  
-- If my app show ads, it will use the UUID of your device for ads. 
+This Application does not collect precise information about the location of your mobile device or iMac. 
+
+### Do third parties see and/or have access to information obtained by the Application?
+
+No. The Application will not share or disclose your information with third parties. 
+
+### Automatic Data Collection and Advertising
+
+The Application works with advertisers or third party advertising networks. Advertisers and advertising networks use some of the information collected by the Application, including, the unique identification ID of your mobile device.
+
+### Data Store
+
+All app data including user name and password are stored you set for the app in your device, and will not be uploaded to any server.
+
+### Security
+
+The Application is concerned about safeguarding the confidentiality of your information.
+
+### Changes
+
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. 
+
+### Contact me
+
+If you have any questions regarding privacy while using the Application, or have questions about me practices, please contact me via email at yu_tian_jian@163.com
 
 ## 隐私政策
 
@@ -37,3 +60,10 @@
 
 - 如果软件中如需设置用户名和登录密码，请妥善保管您的用户名及密码信息。
 
+### 6.政策变化
+
+- 隐私政策可能根据需要发生变化，如有变化将在这里发布。
+
+### 7.联系方式
+
+- 如果在隐私政策方面您有任何疑问，请联系：yu_tian_jian@163.com
