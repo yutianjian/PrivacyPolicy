@@ -18,7 +18,7 @@ The Application works with advertisers or third party advertising networks. Adve
 
 ### Data Store
 
-All app data including user name and password are stored you set for the app in your device, and will not be uploaded to any server.
+All app data including user name and password you set for the app are stored in your device, and will not be uploaded to any server.
 
 ### Security
 
